@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @poss-disc
+- 👀 I’m interested in computer scince,guitar
+- 🌱 I’m currently learning guitar,python,css
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: i learn html5 in 1 week and javascript in 12 days
